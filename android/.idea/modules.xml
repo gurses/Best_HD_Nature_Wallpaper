@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/728936402/android.facebook_audience_network.iml" filepath="$PROJECT_DIR$/.idea/modules/728936402/android.facebook_audience_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-352696385/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-352696385/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1979984987/android.path_provider_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/-1979984987/android.path_provider_linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1001272937/android.path_provider_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/1001272937/android.path_provider_macos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1177717881/android.permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1177717881/android.permission_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2027365195/android.wallpaperplugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-2027365195/android.wallpaperplugin.iml" />
+    </modules>
+  </component>
+</project>
